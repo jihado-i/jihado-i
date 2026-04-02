@@ -16,8 +16,5 @@ Based in Turkey · Available for freelance projects
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihadalibrahimm&show_icons=true&theme=dark&hide_border=true)
-
 ## Let's Work Together
 [🌐 Portfolio](https://jihad-gamma.vercel.app/) · [💬 WhatsApp](https://wa.me/905349279249) · [✉️ Email](mailto:jihadalibrahimm@gmail.com)
